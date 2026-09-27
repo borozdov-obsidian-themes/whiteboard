@@ -1,0 +1,17 @@
+{
+  "name": "borozdov-whiteboard",
+  "private": true,
+  "description": "Deep plum ink on lavender mist: a creative studio notebook where the ink is the fill, lavender draws every edge and one vivid violet marks links.",
+  "license": "MIT",
+  "scripts": {
+    "fonts": "python3 scripts/embed-fonts.py",
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}
