@@ -1,3 +1,6 @@
+Whiteboard Sans is a modified version of Raleway ExtraBold: a Latin and Cyrillic subset,
+renamed because the original carries a Reserved Font Name.
+
 Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

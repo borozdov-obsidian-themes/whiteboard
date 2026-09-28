@@ -26,9 +26,9 @@ House rules:
 - Colors come from the palette in section 1 of `theme.css`; nothing else holds a color
   literal.
 - Deep plum is the ink, the fill and the heading colour; lavender mist draws every edge;
-  vivid violet only for links and the caret. The only embedded font is Raleway ExtraBold
-  (the title and the two largest headings): `fonts/*.woff2` are written into `theme.css`
-  by `npm run fonts`.
+  vivid violet only for links and the caret. The only embedded font is Whiteboard Sans
+  ExtraBold, a renamed subset of Raleway ExtraBold (the title and the two largest
+  headings): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

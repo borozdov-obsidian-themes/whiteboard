@@ -17,9 +17,8 @@ ink is the fill, lavender draws every edge and one vivid violet marks links.
   lavender wash carries tags and the open file; a blush bloom is the highlighter.
 - **One vivid violet.** The brightest chromatic in the system marks links and the caret,
   and nothing else.
-- **A wide geometric display.** Raleway ExtraBold for the title and the two largest
-  headings; the platform's own sans for everything else, with small labels tracked far
-  open.
+- **A wide geometric display.** Whiteboard Sans ExtraBold for the title and the two largest
+  headings; the platform's own sans for everything else, with small labels tracked far open.
 
 ## Features
 
@@ -45,10 +44,11 @@ Settings → Appearance → Themes.
 
 ## Font
 
-Raleway ExtraBold (© 2010–2013 Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida,
-Reserved Font Name "Raleway") is embedded in `theme.css` as base64 WOFF2 under the SIL Open
-Font License 1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). One weight, Latin and Cyrillic,
-for the title and the two largest headings only.
+Whiteboard Sans is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License
+1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). It is a Latin and Cyrillic subset of Raleway
+ExtraBold (© 2010–2013 Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida), renamed because
+a modified copy may not use the original's Reserved Font Name. One weight, for the title and
+the two largest headings only.
 
 ## License
 
@@ -59,5 +59,5 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Дымка» — тёмно-сливовые
 чернила на лавандовой дымке, и тёмный «Слива» — та же доска после работы. Блокнот творческой
 студии, где чернила — это и заливка, лаванда рисует каждую грань, а один яркий фиолетовый
-отмечает ссылки. Заголовки — Raleway ExtraBold. Устанавливается из каталога: Настройки →
-Оформление → Темы → Настроить → Borozdov Whiteboard → Установить и применить.
+отмечает ссылки. Заголовки — Whiteboard Sans ExtraBold. Устанавливается из каталога:
+Настройки → Оформление → Темы → Настроить → Borozdov Whiteboard → Установить и применить.

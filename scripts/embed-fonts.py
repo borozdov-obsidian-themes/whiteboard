@@ -14,8 +14,8 @@ LATIN = ("U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+2000-206F,U+2074,U+20AC,U
          "U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD")
 CYRILLIC = "U+0400-045F,U+0490-0491,U+2116"
 FACES = [  # family, file, weight, style, unicode-range
-    ("Raleway", "raleway-latin-800.woff2", "800", "normal", LATIN),
-    ("Raleway", "raleway-cyrillic-800.woff2", "800", "normal", CYRILLIC),
+    ("Whiteboard Sans", "whiteboardsans-latin-800.woff2", "800", "normal", LATIN),
+    ("Whiteboard Sans", "whiteboardsans-cyrillic-800.woff2", "800", "normal", CYRILLIC),
 ]
 
 blocks = []

@@ -159,7 +159,7 @@ shadow, and the title in the type's colour.</p></div>
 {callout("success", "check", "Done", "Green for what is finished.")}
 {callout("warning", "triangle-alert", "Heads up", "Amber for what needs a look, raspberry for real trouble.")}
 <div class="el-blockquote"><blockquote dir="auto"><p>Draw the flow before you build the form.</p></blockquote></div>
-{table(["Face", "Role"], ["Raleway 800", "Title and the two largest headings"], ["Sans 400", "Body text"], ["Sans 600", "Labels and bold"])}
+{table(["Face", "Role"], ["Whiteboard Sans 800", "Title and the two largest headings"], ["Sans 400", "Body text"], ["Sans 600", "Labels and bold"])}
 """
 
 NOTE_RU = f"""
